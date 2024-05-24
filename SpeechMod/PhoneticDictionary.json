@@ -1,6 +1,6 @@
 {
-  "—": " <silence msec=\"300\"/> ",
-  "...": " <silence msec=\"500\"/> ",
+  "—": " . . ",
+  "...": " . . . ",
   "Kenabres": "Ken-aabres",
   "Iomedae's": "I-o-mædæs",
   "Iomedae": "I-o-mædæ",
@@ -11,6 +11,7 @@
   "Terendelev": "Ter-end-elev",
   "Arendae": "Aren-dæ",
   "tieflings": "teeflings",
+  "tiefling": "teefling",
   "Deskari": "Dess-kaari",
   "aasimar": "aasee-maar",
   "0th": "zero-eth",
