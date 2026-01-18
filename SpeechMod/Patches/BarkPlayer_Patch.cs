@@ -30,8 +30,6 @@ public static class BarkPlayer_Patch
             return;
 
         var voice = VoiceType.Narrator;
-
-
         if (__instance.Unit != null)
         {
             if (__instance.Unit.IsMainCharacter && Main.Settings.UseProtagonistSpecificVoice)
