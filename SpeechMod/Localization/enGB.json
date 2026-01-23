@@ -24,11 +24,17 @@
     "osmodium.speechmod.feature.barks.toggle.notification.on": {
       "Text": "SpeechMod: Barks toggled ON!"
     },
+    "osmodium.speechmod.feature.autoplay.toggle.description": {
+      "Text": "Toggle Auto play dialog"
+    },
+    "osmodium.speechmod.feature.autoplay.toggle.tooltip-description": {
+      "Text": "Toggles Auto play dialog ON and OFF."
+    },
     "osmodium.speechmod.feature.autoplay.toggle.notification.off": {
-      "Text": "SpeechMod: Autoplay toggled OFF!"
+      "Text": "SpeechMod: Auto play dialog toggled OFF!"
     },
     "osmodium.speechmod.feature.autoplay.toggle.notification.on": {
-      "Text": "SpeechMod: Autoplay toggled ON!"
+      "Text": "SpeechMod: Auto play dialog toggled ON!"
     }
   }
 }
