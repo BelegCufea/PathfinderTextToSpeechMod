@@ -36,11 +36,11 @@ public class ToggleAutoPlay() : ModHotkeySettingEntry(_key, _title, _tooltip, _d
             Debug.Log($"{nameof(CommonPCView)}_{nameof(CommonPCView.BindViewImplementation)}_Postfix : {BIND_NAME}");
 #endif
             var autoPlayOffText = LocalizationManager.CurrentPack!.GetText("osmodium.speechmod.feature.autoplay.toggle.notification.off", false);
-            if (string.IsNullOrWhiteSpace(autoPlayOffText))
+            if (!string.IsNullOrWhiteSpace(autoPlayOffText))
                 _ToggleAutoPlayOffText = autoPlayOffText;
 
             var autoPlayOnText = LocalizationManager.CurrentPack!.GetText("osmodium.speechmod.feature.autoplay.toggle.notification.on", false);
-            if (string.IsNullOrWhiteSpace(autoPlayOnText))
+            if (!string.IsNullOrWhiteSpace(autoPlayOnText))
                 _ToggleAutoPlayOnText = autoPlayOnText;
 
             if (Game.Instance.Keyboard.m_Bindings.Exists(binding => binding.Name.Equals(BIND_NAME)))
