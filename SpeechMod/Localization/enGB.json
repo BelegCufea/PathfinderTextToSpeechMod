@@ -1,28 +1,34 @@
 {
-    "Strings": {
-        "osmodium.speechmod.group.main": {
-            "Text": "Speech Mod"
-        },
-        "osmodium.speechmod.feature.playback.stop.description": {
-            "Text": "Stop playback"
-        },
-        "osmodium.speechmod.feature.playback.stop.tooltip-description": {
-            "Text": "Stops playback of SpeechMod TTS when it is playing."
-        },
-        "osmodium.speechmod.feature.playback.stop.notification": {
-            "Text": "SpeechMod: Playback stopped!"
-        },
-        "osmodium.speechmod.feature.barks.toggle.description": {
-            "Text": "Toggle barks"
-        },
-        "osmodium.speechmod.feature.barks.toggle.tooltip-description": {
-            "Text": "Toggles playback of barks ON and OFF.\nBarks are the small text boxes above characters heads when they speak."
-        },
-        "osmodium.speechmod.feature.barks.toggle.notification.off": {
-            "Text": "SpeechMod: Barks toggled OFF!"
-        },
-        "osmodium.speechmod.feature.barks.toggle.notification.on": {
-            "Text": "SpeechMod: Barks toggled ON!"
-        }
+  "Strings": {
+    "osmodium.speechmod.group.main": {
+      "Text": "Speech Mod"
+    },
+    "osmodium.speechmod.feature.playback.stop.description": {
+      "Text": "Stop playback"
+    },
+    "osmodium.speechmod.feature.playback.stop.tooltip-description": {
+      "Text": "Stops playback of SpeechMod TTS when it is playing."
+    },
+    "osmodium.speechmod.feature.playback.stop.notification": {
+      "Text": "SpeechMod: Playback stopped!"
+    },
+    "osmodium.speechmod.feature.barks.toggle.description": {
+      "Text": "Toggle barks"
+    },
+    "osmodium.speechmod.feature.barks.toggle.tooltip-description": {
+      "Text": "Toggles playback of barks ON and OFF.\nBarks are the small text boxes above characters heads when they speak."
+    },
+    "osmodium.speechmod.feature.barks.toggle.notification.off": {
+      "Text": "SpeechMod: Barks toggled OFF!"
+    },
+    "osmodium.speechmod.feature.barks.toggle.notification.on": {
+      "Text": "SpeechMod: Barks toggled ON!"
+    },
+    "osmodium.speechmod.feature.dialog.read.description": {
+      "Text": "Read dialog"
+    },
+    "osmodium.speechmod.feature.dialog.read.tooltip-description": {
+      "Text": "Read current dialog."
     }
+  }
 }
